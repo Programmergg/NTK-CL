@@ -20,7 +20,7 @@
 ## 🧩 Overview
 This repository provides the official implementation for:
 
-**Parameter-Efficient Fine-Tuning for Continual Learning: A Neural Tangent Kernel Perspective** (arXiv:2407.17120).
+**Parameter-Efficient Fine-Tuning for Continual Learning: A Neural Tangent Kernel Perspective**.
 
 We study PEFT-CL via **Neural Tangent Kernel (NTK)** theory and introduce **NTK-CL**, a framework that:
 - avoids task-specific parameter storage,
@@ -33,8 +33,7 @@ We study PEFT-CL via **Neural Tangent Kernel (NTK)** theory and introduce **NTK-
 ## ✅ Key Features
 - [x] Training / evaluation scripts for PEFT-CL benchmarks
 - [x] NTK-CL implementation
-- [x] Pretrained checkpoints (optional)
-- [x] Dataset preparation scripts (optional)
+- [x] Dataset preparation scripts
 ---
 
 ## 🗂️ Repository Structure
