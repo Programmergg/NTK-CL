@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](#license)
 [![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](#installation)
 
-**Jingren Liu**, Zhong Ji, Yunlong Yu, Jiale Cao, Yanwei Pang, Jungong Han, Xuelong Li
+Jingren Liu, Zhong Ji, Yunlong Yu, Jiale Cao, Yanwei Pang, Jungong Han, Xuelong Li
 </div>
 
 ---
