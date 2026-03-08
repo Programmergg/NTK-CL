@@ -150,7 +150,7 @@ If you find this repository useful, please cite our paper:
 
 <p align="center">
   <a href="https://star-history.com/Programmergg/NTK-CL&Date">
-    <img src="https://api.star-history.com/svg?repos=Programmergg/NTK-CL&type=Date" width="850" alt="Star History Chart">
+    <img src="https://api.star-history.com/svg?repos=Programmergg/NTK-CL&type=Date" width="650" alt="Star History Chart">
   </a>
 </p>
 
