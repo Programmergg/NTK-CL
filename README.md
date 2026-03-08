@@ -81,14 +81,14 @@ A recommended dataset layout is:
 
 ```text
 data/
-├── cifar100/
+├── cifar-100-python/
 ├── imagenet-r/
 ├── imagenet-a/
-├── domainnet/
-├── oxford-pets/
-├── eurosat/
-├── plantvillage/
-├── vtab/
-└── kvasir/
+├── DomainNet/
+├── OxfordPets/
+├── EuroSAT/
+├── PlantVillage/
+├── VTAB/
+└── Kvasir/
 ```
 
