@@ -43,8 +43,9 @@ We study PEFT-CL via **Neural Tangent Kernel (NTK)** theory and introduce **NTK-
 ├── data/                       # datasets / prepared data
 ├── dataloader/                 # dataset & dataloader implementations
 ├── models/                     # model definitions / PEFT modules / backbones
-├── main.py                      # main entry for training/evaluation
-└── trainer.py                   # training loop / continual learning pipeline
+├── trainer.py                  # training loop / continual learning pipeline
+├── requirements.txt             # python dependencies for reproducing the environment
+└── main.py                     # main entry for training/evaluation
 ```
 ---
 
