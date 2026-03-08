@@ -91,3 +91,30 @@ data/
 └── Kvasir/
 ```
 
+---
+
+## 🚀 Quick Start
+
+### Train and Evaluate
+**Example: replace args with your actual argparse options**
+```bash
+python main.py \
+  --dataset cifar224_in21k \
+  --suffix cifar224_in21k \
+  --model_name both \
+  --seed [0, 1, 2, 3, 4] \
+  --device 0
+```
+
+---
+
+## 📈 Results
+We present the main experimental results of **NTK-CL** below. 
+
+![Table 1](figures/table1.png)
+
+![Table 1](figures/table2.png)
+
+![Table 1](figures/table3.png)
+
+![Table 1](figures/table4.png)
