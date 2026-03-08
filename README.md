@@ -12,9 +12,8 @@
 ---
 
 ## 🔥 News
-- **[2026-03-01]** Code and scripts released.
-- **[2026-03-01]** Pretrained checkpoints uploaded.
-- **[2026-03-01]** Reproducibility guide updated.
+- **[2026-03-08]** Code and scripts released.
+- **[2026-03-xx]** Reproducibility guide updated.
 
 ---
 
