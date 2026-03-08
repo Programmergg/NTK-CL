@@ -71,8 +71,7 @@ CIFAR-100, ImageNet-R, ImageNet-A, DomainNet, Oxford Pets, EuroSAT, PlantVillage
 ### Download
 You can download the datasets from the following links:
 
-- **Baidu Netdisk**: `(TODO: add Baidu link)`
-- **Google Drive**: `(TODO: add Google Drive link)`
+- **Baidu Netdisk**: `https://pan.baidu.com/s/1PwDAytZY5sKyUInecc5dkg?pwd=arrd`, **Password**: `arrd`
 
 > Please download the required datasets and place them under the `data/` directory following the structure expected by the code.
 
