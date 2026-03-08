@@ -13,7 +13,7 @@ Jingren Liu, Zhong Ji, Yunlong Yu, Jiale Cao, Yanwei Pang, Jungong Han, Xuelong 
 
 ## 🔥 News
 - **[2026-03-08]** Code and scripts released.
-- **[2026-03-xx]** Reproducibility guide updated.
+- **[2026-03-08]** Reproducibility guide updated.
 
 ---
 
@@ -111,10 +111,53 @@ python main.py \
 ## 📈 Results
 We present the main experimental results of **NTK-CL** below. 
 
-![Table 1](figures/table1.png)
+<p align="center">
+  <img src="figures/table1.png" width="850">
+</p>
 
-![Table 1](figures/table2.png)
+<p align="center">
+  <img src="figures/table2.png" width="850">
+</p>
 
-![Table 1](figures/table3.png)
+<p align="center">
+  <img src="figures/table3.png" width="850">
+</p>
 
-![Table 1](figures/table4.png)
+
+<p align="center">
+  <img src="figures/table4.png" width="850">
+</p>
+
+
+---
+
+## 🧾 Citation
+
+If you find this repository useful, please cite our paper:
+
+```bibtex
+@article{liu2024parameter,
+  title={Parameter-efficient fine-tuning for continual learning: A neural tangent kernel perspective},
+  author={Liu, Jingren and Ji, Zhong and Yu, YunLong and Cao, Jiale and Pang, Yanwei and Han, Jungong and Li, Xuelong},
+  journal={arXiv preprint arXiv:2407.17120},
+  year={2024}
+}
+```
+
+---
+
+## ⭐ Star History
+
+<p align="center">
+  <a href="https://star-history.com/Programmergg/NTK-CL&Date">
+    <img src="https://api.star-history.com/svg?repos=Programmergg/NTK-CL&type=Date" width="850" alt="Star History Chart">
+  </a>
+</p>
+
+---
+
+## 📬 Contact
+
+For questions and discussions:
+- Email: **jrl0219@tju.edu.cn**
+- Issues: please open a GitHub Issue in this repo.
