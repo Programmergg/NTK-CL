@@ -45,3 +45,19 @@ We study PEFT-CL via **Neural Tangent Kernel (NTK)** theory and introduce **NTK-
 ├── models/                     # model definitions / PEFT modules / backbones
 ├── main.py                      # main entry for training/evaluation
 └── trainer.py                   # training loop / continual learning pipeline
+```
+---
+
+## 🧰 Installation
+
+### 1) Create environment
+```bash
+conda create -n ntk_cl python=3.11 -y
+conda activate ntk_cl
+```
+
+### 2) Install dependencies
+```bash
+pip install -r requirements.txt
+```
+---
