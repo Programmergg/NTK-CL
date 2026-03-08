@@ -44,7 +44,7 @@ We study PEFT-CL via **Neural Tangent Kernel (NTK)** theory and introduce **NTK-
 ├── dataloader/                 # dataset & dataloader implementations
 ├── models/                     # model definitions / PEFT modules / backbones
 ├── trainer.py                  # training loop / continual learning pipeline
-├── requirements.txt             # python dependencies for reproducing the environment
+├── requirements.txt            # python dependencies for reproducing the environment
 └── main.py                     # main entry for training/evaluation
 ```
 ---
@@ -62,3 +62,33 @@ conda activate ntk_cl
 pip install -r requirements.txt
 ```
 ---
+
+## 📦 Datasets
+
+To facilitate reproduction, we provide downloadable dataset packages/links for the benchmarks used in this project, including:
+CIFAR-100, ImageNet-R, ImageNet-A, DomainNet, Oxford Pets, EuroSAT, PlantVillage, VTAB ,and Kvasir.
+
+### Download
+You can download the datasets from the following links:
+
+- **Baidu Netdisk**: `(TODO: add Baidu link)`
+- **Google Drive**: `(TODO: add Google Drive link)`
+
+> Please download the required datasets and place them under the `data/` directory following the structure expected by the code.
+
+### Directory Structure
+A recommended dataset layout is:
+
+```text
+data/
+├── cifar100/
+├── imagenet-r/
+├── imagenet-a/
+├── domainnet/
+├── oxford-pets/
+├── eurosat/
+├── plantvillage/
+├── vtab/
+└── kvasir/
+```
+
